@@ -10,6 +10,8 @@ Certified DB #2 biggest hatter
 
 ## Back-End
 
+<div style="display: inline-block" >
+  
 <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
 <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" />
@@ -18,3 +20,4 @@ Certified DB #2 biggest hatter
 <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" />
 
+</div>
