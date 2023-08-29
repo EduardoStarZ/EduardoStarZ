@@ -5,8 +5,8 @@ a tiny bit of front-end.
 
 Certified DB #2 biggest hatter
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=onedark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=one_dark_pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=one_dark_pro)
 
 ## Back-End Focused Development
 
