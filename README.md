@@ -3,7 +3,7 @@
 Back-End focused developer, which may or may not be a Java wizard, but also likes
 a tiny bit of front-end.
 
-Certified DB #2 biggest hatter
+Certified database #2 biggest hatter
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=one_dark_pro)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=one_dark_pro)
