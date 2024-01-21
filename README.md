@@ -16,6 +16,8 @@ Certified database #2 biggest hatter
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" />
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" />
+  <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />
+  
 
 </div>
 
@@ -27,7 +29,6 @@ Certified database #2 biggest hatter
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" />
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
-  <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" width="40" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
