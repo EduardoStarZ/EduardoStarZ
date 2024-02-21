@@ -3,8 +3,8 @@
 Back-End focused developer, which may or may not be a Java wizard, but also likes
 a tiny bit of front-end.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=one_dark_pro)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=one_dark_pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=cobalt)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=cobalt)
 
 ## Back-End Focused Development
 
