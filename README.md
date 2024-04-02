@@ -1,7 +1,6 @@
 # Sobre
 
-Back-End focused developer, which may or may not be a Java wizard, but also likes
-a tiny bit of front-end.
+Back-End focused developer, Rustling til death.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=cobalt)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=cobalt)
