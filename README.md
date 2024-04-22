@@ -1,14 +1,14 @@
 <h1 align="center"> About Me </h1>
 
-- 
-- Student at Instituto Federal de Brasília.
-- Fullstack developer with back-end tendencies.
-- Rustling til death.
+- 📕 Student at Instituto Federal de Brasília.
+- 💻 Fullstack developer with back-end tendencies.
+- 🦀 Rustling til death.
+- 💤 I don't sleep until i have anwsers. This is also the cause to my insomnia by the way.
 
 <h1 align="center"> Github Stats </h1>
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=noctis_minimus&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=noctis_minimus&langs_count=10&layout=donut&exclude_repo=tsi_db)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=noctis_minimus&langs_count=10&layout=donut&hide=python,mcfunction)
 
 
 <h4 align="center"> Back End Development </h4>  
