@@ -1,27 +1,31 @@
-# About Me
+<h1 align="center"> About Me </h1>
 
-- FullStack with back-end tendencies.
+- 
+- Student at Instituto Federal de Brasília.
+- Fullstack developer with back-end tendencies.
 - Rustling til death.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=noctis_minimus)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=noctis_minimus)
+<h1 align="center"> Github Stats </h1>
 
-## Back End Development  
-<div style="display: inline_block">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=noctis_minimus&langs_count=10&layout=pie&exclude_repo=tsi_db)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=noctis_minimus&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<h4 align="center"> Back End Development </h4>  
+<div style="display: flex; margin: 0 auto;">
   
-  <img align="center" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
   <img align="center" src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 </div>
 
-## Web development
+<h4 align="center"> Web development </h4>
 
-<div style="display: inline_block">
+<div style="display: flex; margin: 0 auto;">
 
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -34,9 +38,9 @@
   
 </div>
 
-## Development Tools
+<h4 align="center"> Development Tools </h4>
 
-<div style="display: inline_block">
+<div style="display: flex; margin: 0 auto;">
   
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -49,4 +53,3 @@
   <img align="center" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 
 </div>
-
