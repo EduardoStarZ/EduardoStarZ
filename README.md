@@ -6,9 +6,10 @@
 - Rustling til death.
 
 <h1 align="center"> Github Stats </h1>
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=noctis_minimus&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=noctis_minimus&langs_count=10&layout=donut&exclude_repo=tsi_db)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=noctis_minimus&langs_count=10&layout=pie&exclude_repo=tsi_db)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=noctis_minimus&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <h4 align="center"> Back End Development </h4>  
 <div style="display: flex; margin: 0 auto;">
