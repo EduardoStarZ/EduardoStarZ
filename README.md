@@ -3,7 +3,7 @@
 - 📕 Student at Instituto Federal de Brasília.
 - 💻 Fullstack developer with back-end tendencies.
 - 🦀 Rustling til death.
-- 💤 I don't sleep until i have anwsers. This is also the cause to my insomnia by the way.
+- 💤 I don't sleep until i have anwsers. This is not a joke.
 
 <h1 align="center"> Github Stats </h1>
   
