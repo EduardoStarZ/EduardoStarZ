@@ -2,7 +2,7 @@
 
 - 📕 Student at Instituto Federal de Brasília.
 - 💻 Fullstack developer with back-end tendencies.
-- 💤 I don't sleep until i have anwsers. This is not a joke.
+- HTMX (and intercooler.js) enjoyer 
 
 <h1 align="center"> Github Stats </h1>
   
