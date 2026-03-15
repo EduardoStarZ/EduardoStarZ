@@ -1,8 +1,8 @@
 <h1 align="center"> About Me </h1>
 
-- 📕 Student at Instituto Federal de Brasília.
+- 📕 Graduate from Instituto Federal de Brasília.
 - 💻 Fullstack developer with back-end tendencies.
-- HTMX (and intercooler.js) enjoyer 
+- HTMX (and intercooler.js) enjoyer. 
 
 <h1 align="center"> Github Stats </h1>
   
