@@ -29,7 +29,6 @@ Hello, i am a software developer with a lot of non-free time that loves to do th
   <img align="center" src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Assembly-gray?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=white" />
 
 </div>
 
