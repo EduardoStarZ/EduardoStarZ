@@ -6,8 +6,8 @@ Hello, i am a software developer with a lot of non-free time that loves to do th
 
 <div align="center">
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eduardostarz&show_icons=true&theme=gruvbox&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostarz&show_icons=true&theme=gruvbox&langs_count=20&layout=compact&width=400)
+  ![Github Stats](./profile/stats.svg)
+  ![Top Langs](./profile/top-langs.svg)
 
 </div>
 
