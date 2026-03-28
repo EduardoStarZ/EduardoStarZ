@@ -2,7 +2,7 @@
 
 Hello, i am a software developer with a lot of non-free time that loves to do things that require a lot of free time. I am a graduate under the title of Tecnology in Systems for Internet, a course very analogous and a blend of both Software Engineering, Development and Analysis of Systems and Computer Science, offered in the Instituto Federal de Brasília. I have a lot of focus towards code optimization during development, to the point of building my own solutions instead of using what is already done, even if it seems somewhat counter intuitive. I am also the one and only CEO of HTMX.
 
-<h2 align="center"> Github Stats </h2>
+<h2 align="center"> Github Stats (Updates once a day at midnight) </h2>
 
 <div align="center">
   
