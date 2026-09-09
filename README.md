@@ -6,8 +6,8 @@ Hello, i am a software developer with a lot of non-free time that loves to do th
 
 <div align="center">
   
-  ![Github Stats](./profile/stats.svg)
-  ![Top Langs](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
